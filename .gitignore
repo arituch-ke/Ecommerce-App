@@ -1,0 +1,18 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Build and output directories
+/bin/
+/obj/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+
+# Visual Studio settings and personal files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+/.vs
